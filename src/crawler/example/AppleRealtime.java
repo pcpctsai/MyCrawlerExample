@@ -59,7 +59,7 @@ public class AppleRealtime {
 //	                <h1><font color="#ff0000"> 【更新】好兆頭！　陽岱鋼單場第2安出爐(7234)</font></h1>
 //	            </a>
 //            </li>		
-
+// peggy new
 			// 如果不想要更新的資料
 			if ( news.select("h1 > font:matchesOwn(【更新】)").size() > 0 ) continue; 
 			
