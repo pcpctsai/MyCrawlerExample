@@ -32,7 +32,7 @@
               <program>
                   <mainClass>crawler.example.integration.PM25</mainClass>
                   <id>pm25ElasticImport</id>
-                  // peggy20
+                  // peggy
               </program>
             </programs>
           </configuration>
